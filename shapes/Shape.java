@@ -1,4 +1,4 @@
-package example.shapes;
+package shapes;
 
 import java.awt.*;
 import java.io.Serializable;
